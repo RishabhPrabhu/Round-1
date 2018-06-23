@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Round-1</string>
+    <string name="title_activity_about_round">label_manifest</string>
+    <string name="loading">Loading</string>
+    <string name="signed_in_fmt">Sign In</string>
+    <string name="email_id">something.anything@somewhere.com</string>
+    <string name="restaurants_already_eplored">Restaurants already eplored</string>
+
+    <string name="title_activity_edit_profile">EditProfile</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="submit">Submit</string>
+</resources>

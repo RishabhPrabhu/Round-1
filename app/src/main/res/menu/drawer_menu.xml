@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/explore"
+        android:icon="@drawable/restaurant_already_explored"
+        android:title="@string/restaurants_already_eplored" />
+
+    <item
+        android:id="@+id/tried_drinks"
+        android:icon="@drawable/drinks_already_tried"
+        android:title="Drinks already tried" />
+
+    <item
+        android:id="@+id/bill"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="My plan and past Bills" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share_with_freinds"
+        android:title="Share with your friends" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about_round1"
+        android:title="About Round1" />
+
+    <item
+        android:id="@+id/faq"
+        android:icon="@drawable/faq"
+        android:title="FAQ's" />
+
+    <item
+        android:id="@+id/write_to_us"
+        android:icon="@drawable/write_to_us"
+        android:title="Write to us" />
+
+    <item
+        android:id="@+id/call_us"
+        android:icon="@drawable/call_us"
+        android:title="Call us" />
+
+    <item
+        android:id="@+id/rate_us"
+        android:icon="@drawable/rate_us"
+        android:title="Rate_us" />
+    <item
+        android:id="@+id/terms_of_use"
+        android:icon="@drawable/rate_us"
+        android:title="Terms of use" />
+
+</menu>
